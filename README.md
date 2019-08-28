@@ -7,13 +7,17 @@ This is the one project for the Udacity Full Stack Nanodegree. In this project, 
 To Run
 
 You will need:
-Python3
-VirtualBox
-Vagrant
+
+1- Python3
+
+2- VirtualBox
+
+3- Vagrant
 
 Setup
 
 Install Vagrant And VirtualBox
+
 Clone this repository
 
 To Run
@@ -24,8 +28,10 @@ To load the data, use the command psql -d news -f newsdata.sql to connect a data
 
 The database includes three tables:
 
-Authors table
-Articles table
-Log table
+. Authors table
+
+. Articles table
+
+. Log table
 
 To execute the program, run python3 newsdata.py from the command line.
